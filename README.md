@@ -1,4 +1,4 @@
-# UI CLONE - 
+# UI CLONE
 > Clone da Interface do Dropbox. 
 
 ![Clone Dropbox](dropbox.gif)
